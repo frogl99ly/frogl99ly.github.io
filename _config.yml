@@ -22,7 +22,7 @@ title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jaeseong Lim"
-description              : "안녕하세요. 개발자 임재성입니다."
+description              : "Hello"
 url                      : "https://frogl99ly.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -111,8 +111,8 @@ analytics:
 author:
   name             : "Jaeseong Lim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "안녕하세요. 개발자 임재성입니다."
-  location         : "Pangyo"
+  bio              : "Hello"
+  location         : ""
   email            :
   links:
     - label: "Email"
