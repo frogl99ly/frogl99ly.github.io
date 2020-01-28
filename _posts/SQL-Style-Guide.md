@@ -1,3 +1,10 @@
+---
+title: "sql style guide"
+date: 2020-01-29
+categories: jekyll update
+---
+
+
 ## SQL Style Guide
 (공통된 작성 규칙을 제공하고자 SQL 가이드 작성 했습니다.)
 
